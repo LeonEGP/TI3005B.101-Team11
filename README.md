@@ -1,4 +1,4 @@
-# TI3005B.101 *Trasformación Digital de Organizaciones de la Sociedad Civil (Gpo 101) - Team 11*
+# TI3005B.101 *Trasformación Digital de Organizaciones de la Sociedad Civil (Gpo 101)*
 ## Team 11
 
 *Miembros del Equipo:*
