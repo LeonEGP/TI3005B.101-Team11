@@ -9,4 +9,4 @@
 - Ana Paola Aranda Luelmo - A01634504
 - José Carlos Valle Martínez - A01067268
 - Mariana Alonso Saucedo - A01067171
-  Luisa Fernanda Parada Montoya - A01566831
+- Luisa Fernanda Parada Montoya - A01566831
