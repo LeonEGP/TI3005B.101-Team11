@@ -1,9 +1,7 @@
-# TI3005B.101
-## Team11
+# TI3005B.101 *Trasformación Digital de Organizaciones de la Sociedad Civil (Gpo 101) - Team 11*
+## Team 11
 
-*Trasformación Digital de Organizaciones de la Sociedad Civil (Gpo 101) - Team 11*
-
-Miembros del Equipo:
+*Miembros del Equipo:*
 - León Emiliano García Pérez - A00573074
 - Luis Gerardo Quezada Pérez - A01639796
 - Alyx Nadyezhna Gutierrez Miranda - A01640585
